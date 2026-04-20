@@ -9,7 +9,6 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install numpy pandas scikit-learn matplotlib imageio tqdm tensorboard jupyter
 ```
 
-Python ≥ 3.9, CUDA ≥ 11.8 recommended. Tested on a multi-GPU server with NVIDIA GPUs.
 
 ---
 
